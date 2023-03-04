@@ -1,0 +1,2 @@
+0
+Checklist:eat food,eat a whole burger,100,500,7,0,False
